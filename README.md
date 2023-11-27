@@ -16,7 +16,7 @@ https://github.com/Rukiren/Enter_merit/assets/75606879/25017ba5-4b46-4feb-9fee-a
 
 前端用 tkinter 實現
 
-~~其他的 Python UI 我不會用~~
+(~~其他的 Python UI 我不會用~~)
 
 
 **這東西有部分是 ChatGPT 幫忙寫的，有問題請找他（Ｘ**
